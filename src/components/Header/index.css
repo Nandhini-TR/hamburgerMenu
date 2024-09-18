@@ -1,0 +1,66 @@
+.nav-container {
+  border-bottom: 1px solid #dcdcdc;
+  height: 80px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.website-logo {
+  height: 25px;
+  margin-left: 20px;
+}
+
+.hamburger-menu {
+  font-size: 25px;
+  margin-right: 20px;
+}
+
+.trigger-button {
+  background-color: transparent;
+  border: 0px none;
+}
+
+.popup-content {
+  border: 0px none;
+}
+
+.popup-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.content-container {
+  display: flex;
+}
+
+.about-home {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.home-about-icon {
+  font-size: 28px;
+  margin-top: 18px;
+  margin-right: 10px;
+}
+
+.nav-item {
+  text-align: end;
+}
+
+.link {
+  text-decoration: none;
+  color: black;
+}
+
+.close-button {
+  background-color: transparent;
+  border: 0px none;
+}
+
+.menu-items {
+  list-style-type: none;
+}
